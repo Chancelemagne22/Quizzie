@@ -23,13 +23,11 @@ body{
     display: flex;
     width: 100%;
     justify-content: space-around;
-    border: yellow 1px solid;
     transform: translateY(10em);
 
 }
 
 .block{
-    border: white 1px solid;
 
 }
 button{

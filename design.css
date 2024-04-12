@@ -16,7 +16,6 @@ body{
     align-items: center;
 }
 .options{
-    border: 1px blue solid;
     display: flex;
     flex-direction: column;
 }
